@@ -1,5 +1,7 @@
 # React Lazy Loading Images
 
+Live demo available at https://gomorizsolt.github.io/react-pexels-wallpapers/.
+
 ## Stack
 - CRA + TypeScript
 - TailwindCSS
