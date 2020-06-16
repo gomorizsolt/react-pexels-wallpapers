@@ -22,7 +22,7 @@
     "watch:tailwind": "postcss -w src/tailwind/tailwind.css -o src/tailwind/tailwind.generated.css",
     "dev": "run-p watch:tailwind dev:react",
     "dev:react": "react-scripts start",
-    "prebuild": "yarn build:tailwind",
+    "prebuild": "NODE_ENV=production yarn build:tailwind",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
