@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-pexels-wallpapers/static/css/main.a67bddd6.chunk.css",
+    "main.css": "/react-pexels-wallpapers/static/css/main.115fd586.chunk.css",
     "main.js": "/react-pexels-wallpapers/static/js/main.0ad7ad9a.chunk.js",
     "main.js.map": "/react-pexels-wallpapers/static/js/main.0ad7ad9a.chunk.js.map",
     "runtime-main.js": "/react-pexels-wallpapers/static/js/runtime-main.8f7dd980.js",
@@ -8,15 +8,15 @@
     "static/js/2.d5af3e80.chunk.js": "/react-pexels-wallpapers/static/js/2.d5af3e80.chunk.js",
     "static/js/2.d5af3e80.chunk.js.map": "/react-pexels-wallpapers/static/js/2.d5af3e80.chunk.js.map",
     "index.html": "/react-pexels-wallpapers/index.html",
-    "precache-manifest.6546178cae936a6ef12d20c92dc96f3f.js": "/react-pexels-wallpapers/precache-manifest.6546178cae936a6ef12d20c92dc96f3f.js",
+    "precache-manifest.0d1405571cd1bbc578c5e6ad109dd768.js": "/react-pexels-wallpapers/precache-manifest.0d1405571cd1bbc578c5e6ad109dd768.js",
     "service-worker.js": "/react-pexels-wallpapers/service-worker.js",
-    "static/css/main.a67bddd6.chunk.css.map": "/react-pexels-wallpapers/static/css/main.a67bddd6.chunk.css.map",
+    "static/css/main.115fd586.chunk.css.map": "/react-pexels-wallpapers/static/css/main.115fd586.chunk.css.map",
     "static/js/2.d5af3e80.chunk.js.LICENSE.txt": "/react-pexels-wallpapers/static/js/2.d5af3e80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f7dd980.js",
     "static/js/2.d5af3e80.chunk.js",
-    "static/css/main.a67bddd6.chunk.css",
+    "static/css/main.115fd586.chunk.css",
     "static/js/main.0ad7ad9a.chunk.js"
   ]
 }

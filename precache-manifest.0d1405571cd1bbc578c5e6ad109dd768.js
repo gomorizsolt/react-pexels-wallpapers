@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34f397f4494bcf6ccba5276e5131ce50",
+    "revision": "1d12f25248a396a5bdd71efb1c551d3e",
     "url": "/react-pexels-wallpapers/index.html"
   },
   {
-    "revision": "cfe21d9ef73cfba895ab",
-    "url": "/react-pexels-wallpapers/static/css/main.a67bddd6.chunk.css"
+    "revision": "27c7a4482c82294614b9",
+    "url": "/react-pexels-wallpapers/static/css/main.115fd586.chunk.css"
   },
   {
     "revision": "3cd67cf30fe7664c0040",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pexels-wallpapers/static/js/2.d5af3e80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfe21d9ef73cfba895ab",
+    "revision": "27c7a4482c82294614b9",
     "url": "/react-pexels-wallpapers/static/js/main.0ad7ad9a.chunk.js"
   },
   {
