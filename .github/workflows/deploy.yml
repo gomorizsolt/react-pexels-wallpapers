@@ -24,7 +24,9 @@ jobs:
         run: yarn install
       - name: Build
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          # Environment variables not beginning with REACT_APP_ are ignored except for NODE_ENV.
+          # https://create-react-app.dev/docs/adding-custom-environment-variables/
+          REACT_APP_PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: yarn build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
