@@ -39,13 +39,6 @@ interface SearchResponse {
   total_results: number;
 }
 
-interface SearchResponse {
-  next_page: string;
-  page: number;
-  per_page: number;
-  photos: Photo[];
-  total_results: number;
-}
 function App() {
   const [state, dispatch] = useReducer(reducer, {
     isLoading: true,
@@ -71,7 +64,7 @@ function App() {
   return (
     <div className="container p-4 mx-auto">
       <header className="flex justify-between items-center py-4 flex-col md:flex-row">
-        <h1 className="text-center text-xs md:text-2xl lg:text-4xl">
+        <h1 className="text-center">
           Lazy Loading Images with the Intersection Observer API
         </h1>
         <a
@@ -80,7 +73,7 @@ function App() {
           rel="nofollow noopener noreferrer"
           target="_blank"
         >
-          GitHub
+          Source
         </a>
       </header>
       <main>
