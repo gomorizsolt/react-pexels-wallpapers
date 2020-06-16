@@ -84,6 +84,7 @@ function App() {
         </a>
       </header>
       <main>
+        <p className="mb-4">As you scroll down, you'll notice the 300x300 placeholder images are replaced once their visibility passes the 100% mark.</p>
         {state.isLoading ? (
           <p className="text-center">Loading ...</p>
         ) : (

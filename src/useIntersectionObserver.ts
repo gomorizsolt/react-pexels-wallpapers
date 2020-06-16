@@ -16,7 +16,7 @@ const useIntersectionObserver = () => {
                 });
             },
             {
-                threshold: [0.25, 0.5, 0.75, 1],
+                threshold: 1,
             }
         );
 
