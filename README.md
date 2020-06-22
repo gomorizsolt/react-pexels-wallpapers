@@ -7,6 +7,12 @@ Live demo available at https://gomorizsolt.github.io/react-pexels-wallpapers/.
 - TailwindCSS
 - Pexels
 
+## Development
+
+1. [Obtain a free API key](https://www.pexels.com/api/documentation/#authorization) from Pexels.
+2. Create a `.env.development` file in the root directory.
+3. Update its content according to the [example file](./.env.example).
+
 ## Resources
 - https://cobwwweb.com/lazy-load-images-intersection-observer-api
 - https://daveceddia.com/useeffect-vs-uselayouteffect/
