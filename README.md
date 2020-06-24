@@ -15,7 +15,7 @@ Live demo available at https://gomorizsolt.github.io/react-pexels-wallpapers/.
 
 ## Deployment
 
-To deploy the application to the provider of your choice, make sure the `REACT_APP_PEXELS_API_KEY` environment variable is exposed. The `REACT_APP_` prefix is required, otherwise the [variable is ignored](https://create-react-app.dev/docs/adding-custom-environment-variables/).
+To deploy the application to the provider of your choice, make sure the `REACT_APP_PEXELS_API_KEY` environment variable is exposed. The `REACT_APP_` prefix is mandatory, otherwise the [variable is ignored](https://create-react-app.dev/docs/adding-custom-environment-variables/).
 
 Refer to the [deploy workflow file](https://github.com/gomorizsolt/react-pexels-wallpapers/blob/5f4ecb8924bca691a21f8aef7c414997d7c871f1/.github/workflows/deploy.yml#L29) for an example.
 
